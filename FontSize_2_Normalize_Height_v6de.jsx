@@ -7,30 +7,55 @@
 // Wir können nicht garantieren, dass das Script je nach Schrit nicht auch unerwartete Ergebnisse erzeugen kann
 
 // Diese Skript basiert auf dem Skript von Gerald Singelmann:
-// "SetVisualCharSize.jsx"
-// http://indesignsecrets.com/set-the-size-of-text-exactly-based-on-cap-or-x-height.php // http://www.indesign-faq.de/de/versal-und-andere-hohen-angleichen
-//© cuppascript, 10/2009
+// 	"SetVisualCharSize.jsx"
+// 	http://indesignsecrets.com/set-the-size-of-text-exactly-based-on-cap-or-x-height.php // http://www.indesign-faq.de/de/versal-und-andere-hohen-angleichen
+//	cuppascript, 10/2009
+//	(he allowed me to use it and publish my modification)
 
-//Autor dieser Anpassung/Weiterentwicklung: Manuel von Gebhardi
 
-//TODO
-//Create Characterstyle Folder ( CharacterStyleGroup )
-// Name Style including: "x-Height = 40em%"
+//Autor dieser Weiterentwicklung: Manuel von Gebhardi (author of this script)
 
-//maybe change behaviour to palette instead of dialog
-// test for cyrillic
-// add more presets for extended/international version
-  // hebrew
-  // latin italic
-  // chinese
-  // arabic
+
+
+//-----------
+// T O   D O
+//-----------
+//STYLES
+	// Create Characterstyle Folder ( CharacterStyleGroup )
+	// Name Style including: "x-Height = 40em%"
+
+//INTERFACE / CHECKBOXES
+	// [x] "within a family keep the size as intended by the typedesigner" (allready implemented, but not as a checkbox) // only works if the family name is exact the same
+	// [ ] "exact match (ignore case changes to caps / small caps within Indesign)"
+
+
+//~INTERFACE in general
+	// maybe change to palette instead of dialog
+	// add buttons normalize all / normalize selection / detailed options
+
+//WARNINGS / Errorlists
+	//if the reference character is a "x" in "simple mode" check also the "o" -> if the differences are too big -> take the size of the "o" and push a message
+
+
+//FUNCTIONS
+	// test for cyrillic
+	// add more presets for extended/international version
+		 // hebrew
+		 // latin italic
+		 // chinese
+		 // arabic
   
+//optimize the way a font is normalized within a whole document
+	// (search for apllied characterstyles/paragraphstyles) ?
+	// if it is a family-match or an exact match dont measure again (doesnt work yet properly over different textfeilds)
+
 
 
 //Preset Values
 var pre_Char = "x";
 var pre_emHeight = 50;
 var errorlist = "";
+
 
 // enable ExtendScript L10N automatism
 $.localize = true;
