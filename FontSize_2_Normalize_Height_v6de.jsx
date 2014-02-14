@@ -28,14 +28,13 @@
 	// [x] "within a family keep the size as intended by the typedesigner" (allready implemented, but not as a checkbox) // only works if the family name is exact the same
 	// [ ] "exact match (ignore case changes to caps / small caps within Indesign)"
 
-
-//~INTERFACE in general
-	// maybe change to palette instead of dialog
-	// add buttons normalize all / normalize selection / detailed options
+//INTERFACE in general
+	// maybe change to "palette behavior" instead of dialog
+	// then add buttons "normalize all / normalize selection / detailed options"
 
 //WARNINGS / Errorlists
 	//if the reference character is a "x" in "simple mode" check also the "o" -> if the differences are too big -> take the size of the "o" and push a message
-
+	// when there are more then 10 (or 20?) Fonts getting normalized -> warn that you should save before executing, cause it might be not possible not possible to undo it (depends on how many steps you can go back in the indesign history) 
 
 //FUNCTIONS
 	// test for cyrillic
@@ -47,7 +46,7 @@
   
 //optimize the way a font is normalized within a whole document
 	// (search for apllied characterstyles/paragraphstyles) ?
-	// if it is a family-match or an exact match dont measure again (doesnt work yet properly over different textfeilds)
+	// if there is a family-match or an exact match dont measure again (doesnt work yet properly over different textfeilds, etc.)
 
 
 
