@@ -1,7 +1,7 @@
 # INSTALLATION
 
-Quick Instructions to install Scripts in Adobe Indesign:
-http://www.youtube.com/watch?v=v1Kuy_eJMLU&noredirect=1 (2min video)
+Quick Instructions to install Scripts in Adobe Indesign:  
+http://www.youtube.com/watch?v=v1Kuy_eJMLU&noredirect=1 (2min video) 
 http://www.danrodney.com/scripts/directions-installingscripts.html (described within 3 screenshots)
 
 
