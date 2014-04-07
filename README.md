@@ -16,7 +16,8 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 ToDo: Video Presentation 
 (but it is somehow self explanatory, just try it :)
 
-# Theory Impressions (before/after)
+# Theory Impressions
+sorry, only in german yet …
 ![schriftgroesse01](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_01.png)
 ![schriftgroesse02](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_02.png)
 ![schriftgroesse03](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_03.png)
