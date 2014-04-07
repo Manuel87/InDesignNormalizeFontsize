@@ -2,7 +2,7 @@ Normalize Font Size (only InDesign yet, help is highly appreciated)
 -------------------
 Did you ever wondered why some fonts look bigger than others?
 Sometimes it’s the difference in style but most of the time you can’t tell, cause you’re distracted by random scales.
-This tool helps you to correct the distraction, so you can clearly see the character of a typeface in comparison to others, while keeping the same point size! and exactly the same quality. (proportion, rendering)
+This tool helps you to correct the distraction, so you can clearly see the character of a typeface in comparison to others, while keeping the same point size! and exactly the same quality. (overal proportion, rendering, …)
 
 language support: english and german  
 
