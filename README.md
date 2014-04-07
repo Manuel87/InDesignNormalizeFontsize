@@ -14,7 +14,7 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 
 # Use
 ToDo: Video Presentation 
-but it is somehow self explanatory, just try it :)
+(but it is somehow self explanatory, just try it :)
 
 # Theory Impressions (before/after)
 ![schriftgroesse01](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_01.png)
