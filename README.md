@@ -23,5 +23,9 @@ sorry, only in german yet …
 ![schriftgroesse03](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_03.png)
 ![schriftgroesse04](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_04.png)
 
+# Acknowledgement
+This scripts are based on Gerald Singelmanns "SetVisualCharSize.jsx" (http://www.indesign-faq.de/de/versal-und-andere-hohen-angleichen)
+
 # Feedback
 If you encounter any bug or have some recommendations to improve the script please feel free to contact me. (m.vongebhardi<ät>gmail.com)
+
