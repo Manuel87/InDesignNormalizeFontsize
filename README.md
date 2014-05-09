@@ -13,23 +13,23 @@ http://www.youtube.com/watch?v=v1Kuy_eJMLU&noredirect=1 (2min video)
 http://www.danrodney.com/scripts/directions-installingscripts.html (described within 3 screenshots)
 
 # Use
-1. Select a textframe or single characters
+1 — Select a textframe or single characters
 
 ![alt tag](fontsize_control_original.png)
 
 10pt — Original
 
-2. Double click the normalize script
+2 — Double click the normalize script
 
 ![alt tag](fontsize_control_scripts_window.png)
 
-3. Set the prefered size relation (percentage per fontsize) or leave defaults
+3 — Set the prefered size relation (percentage per fontsize) or leave defaults
 
 ![alt tag](fontsize_control_interface_simple.png)
 
 Basic Interface (detects the system language and changes between english and german)
   
-4. Be happy :)
+4 — Be happy :)
 ![alt tag](fontsize_control_normalized.png)
 
 10pt — Normalized
