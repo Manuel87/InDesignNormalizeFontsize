@@ -13,14 +13,25 @@ http://www.youtube.com/watch?v=v1Kuy_eJMLU&noredirect=1 (2min video)
 http://www.danrodney.com/scripts/directions-installingscripts.html (described within 3 screenshots)
 
 # Use
-10pt — Original
-![alt tag](fontsize_control_original.png)
+1. Select a textframe or single characters
 
+![alt tag](fontsize_control_original.png)
+10pt — Original
+
+2. Double click the normalize script
+
+![alt tag](fontsize_control_scripts_window.png)
+
+3. Set the prefered size relation (percentage per fontsize) or leave defaults
+
+![alt tag](fontsize_control_interface_simple.png)
 Basic Interface (detects the system language and changes between english and german)
-  ![alt tag](fontsize_control_interface_simple.png)
   
-10pt — Normalized
+4. Be happy :)
 ![alt tag](fontsize_control_normalized.png)
+10pt — Normalized
+
+(5. When you mix Typefaces, finetune their size relation as you like it.)
 
 //ToDo: Video Presentation (but it is somehow self explanatory, just try it :)
 
