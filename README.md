@@ -16,6 +16,7 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 1. Select a textframe or single characters
 
 ![alt tag](fontsize_control_original.png)
+
 10pt — Original
 
 2. Double click the normalize script
@@ -25,10 +26,12 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 3. Set the prefered size relation (percentage per fontsize) or leave defaults
 
 ![alt tag](fontsize_control_interface_simple.png)
+
 Basic Interface (detects the system language and changes between english and german)
   
 4. Be happy :)
 ![alt tag](fontsize_control_normalized.png)
+
 10pt — Normalized
 
 (5. When you mix Typefaces, finetune their size relation as you like it.)
