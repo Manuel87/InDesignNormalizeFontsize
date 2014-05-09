@@ -13,11 +13,17 @@ http://www.youtube.com/watch?v=v1Kuy_eJMLU&noredirect=1 (2min video)
 http://www.danrodney.com/scripts/directions-installingscripts.html (described within 3 screenshots)
 
 # Use
+10pt — Original
 ![alt tag](fontsize_control_original.png)
-![alt tag](fontsize_control_interface_simple.png)
+
+Basic Interface (detects the system language and changes between english and german)
+  ![alt tag](fontsize_control_interface_simple.png)
+  
+10pt — Normalized
 ![alt tag](fontsize_control_normalized.png)
 
 //ToDo: Video Presentation (but it is somehow self explanatory, just try it :)
+
 
 # Theory Impressions
 sorry, only in german yet …
