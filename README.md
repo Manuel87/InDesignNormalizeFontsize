@@ -17,33 +17,41 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 
 ![alt tag](fontsize_control_original.png)
 
-10pt — Original
+10pt, original
 
+
+----
 2 — Double click the normalize script
 
 ![alt tag](fontsize_control_scripts_window.png)
 
+----
 3 — Set the prefered size relation (percentage per fontsize) or leave defaults
 
 ![alt tag](fontsize_control_interface_simple.png)
 
 Basic Interface (detects the system language and changes between english and german)
   
+----
 4 — Be happy :)
 ![alt tag](fontsize_control_normalized.png)
 
-10pt — Normalized
+10pt, normalized
 
-(5. When you mix Typefaces, finetune their size relation as you like it.)
+----
+(5. When you mix typefaces, finetune their size relation as you like it.)
 
-//ToDo: Video Presentation (but it is somehow self explanatory, just try it :)
+//ToDo: Video Presentation (but it’s somehow self explanatory, just try it :)
 
 
 # Theory Impressions
 sorry, only in german yet …
 ![schriftgroesse01](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_01.png)
+----
 ![schriftgroesse02](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_02.png)
+----
 ![schriftgroesse03](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_03.png)
+----
 ![schriftgroesse04](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_04.png)
 
 # Acknowledgement
