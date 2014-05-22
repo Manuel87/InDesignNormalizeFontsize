@@ -36,7 +36,7 @@ Basic Interface (detects the system language and changes between english and ger
 4 — Be happy :)
 ![typographical normalized font size](fontsize_control_normalized.png)
 
-10pt, normalized (typographical font size)
+10pt, normalized / 5pt x-height (typographical font size)
 
 ----
 (5. When you mix typefaces, finetune their size relation as you like!)
