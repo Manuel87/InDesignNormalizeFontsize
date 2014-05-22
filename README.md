@@ -17,7 +17,7 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 
 ![technical distorted fontsize](fontsize_control_original.png)
 
-10pt, original
+10pt, original (common technical fontsize)
 
 
 ----
@@ -36,7 +36,7 @@ Basic Interface (detects the system language and changes between english and ger
 4 — Be happy :)
 ![typographical normalized fontsize](fontsize_control_normalized.png)
 
-10pt, normalized
+10pt, normalized (typographical fontsize)
 
 ----
 (5. When you mix typefaces, finetune their size relation as you like.)
