@@ -15,31 +15,31 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 # Use
 1 — Select a textframe or single characters
 
-![technical distorted fontsize](fontsize_control_original.png)
+![technical distorted font size](fontsize_control_original.png)
 
-10pt, original (common technical fontsize)
+10pt, original (common technical font size)
 
 
 ----
 2 — Double click the normalize script
 
-![fontsize control script](fontsize_control_scripts_window.png)
+![font size control script](fontsize_control_scripts_window.png)
 
 ----
 3 — Set the prefered size relation (percentage per fontsize) or leave defaults
 
-![fontsize control interface](fontsize_control_interface_simple.png)
+![font size control interface](fontsize_control_interface_simple.png)
 
 Basic Interface (detects the system language and changes between english and german)
   
 ----
 4 — Be happy :)
-![typographical normalized fontsize](fontsize_control_normalized.png)
+![typographical normalized font size](fontsize_control_normalized.png)
 
-10pt, normalized (typographical fontsize)
+10pt, normalized (typographical font size)
 
 ----
-(5. When you mix typefaces, finetune their size relation as you like.)
+(5. When you mix typefaces, finetune their size relation as you like!)
 
 //ToDo: Video Presentation (but it’s somehow self explanatory, just try it :)
 
