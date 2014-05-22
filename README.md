@@ -39,7 +39,8 @@ Basic Interface (detects the system language and changes between english and ger
 10pt, normalized / 5pt x-height (typographical font size)
 
 ----
-(5. When you mix typefaces, finetune their size relation as you like!)
+5 — When you mix typefaces, finetune their size relation as you like!
+
 
 //ToDo: Video Presentation (but it’s somehow self explanatory, just try it :)
 
