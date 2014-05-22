@@ -15,7 +15,7 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 # Use
 1 — Select a textframe or single characters
 
-![alt tag](fontsize_control_original.png)
+![technical distorted fontsize](fontsize_control_original.png)
 
 10pt, original
 
@@ -23,25 +23,44 @@ http://www.danrodney.com/scripts/directions-installingscripts.html (described wi
 ----
 2 — Double click the normalize script
 
-![alt tag](fontsize_control_scripts_window.png)
+![fontsize control script](fontsize_control_scripts_window.png)
 
 ----
 3 — Set the prefered size relation (percentage per fontsize) or leave defaults
 
-![alt tag](fontsize_control_interface_simple.png)
+![fontsize control interface](fontsize_control_interface_simple.png)
 
 Basic Interface (detects the system language and changes between english and german)
   
 ----
 4 — Be happy :)
-![alt tag](fontsize_control_normalized.png)
+![typographical normalized fontsize](fontsize_control_normalized.png)
 
 10pt, normalized
 
 ----
-(5. When you mix typefaces, finetune their size relation as you like it.)
+(5. When you mix typefaces, finetune their size relation as you like.)
 
 //ToDo: Video Presentation (but it’s somehow self explanatory, just try it :)
+
+# Hints
+
+1 — Get coherent linespacing for any text frame, right from the top
+
+
+
+Object > Text Frame Options … (CMD + B) <br />
+![text frame options](text-frame-options--cmd-B.png)
+
+In Baseline Options > Set the first baseline to "linespacing" <br />
+![text frame options linespacing](text-frame-options--set-to-linespacing.png) <br />
+(especially important if you work with more than one typeface)
+
+----
+
+2 — If you want, you can even type in directly the desired lowercase size. <br />
+… just use 100em% in the script dialog and there you go: <br />
+![text frame options](fontsize_control_normalized-2.png)
 
 
 # Theory Impressions
