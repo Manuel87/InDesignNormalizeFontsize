@@ -66,11 +66,7 @@ In Baseline Options > Set the first baseline to "linespacing" <br />
 
 # Theory Impressions
 sorry, only in german yet …
-![schriftgroesse01](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_01.png)
-----
 ![schriftgroesse02](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_02.png)
-----
-![schriftgroesse03](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_03.png)
 ----
 ![schriftgroesse04](http://vongebhardi.de/variables_of_type/Bilder/schriftgroesse_04.png)
 
